@@ -14,4 +14,6 @@ cout<<"Number of Rounds";
 cin>>r;
 cout<<"Number of Eligible Prize Winners";
 cin>>w;
-cout<<"Number of Points Needed to Win"<<p;
+cout<<"Number of Points Needed"<<p;
+getch();
+}
