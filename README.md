@@ -3,7 +3,7 @@ Imagine you're joining a chess tournament. This website will calculate the numbe
 
 # Formula
 p=r×(1-ʷ⁄ₙ)
-p=Number of Points
+p=Number of Points Needed
 r=Number of Rounds
 w=Number of Eligible Prize Winners
 n=Total Number of Players
