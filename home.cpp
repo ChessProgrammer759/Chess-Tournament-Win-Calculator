@@ -8,7 +8,7 @@ int r;
 int w;
 float p;
 p=r*(1-w/n);
-cout<<"Number of Players";
+cout<<"Total Number of Players";
 cin>>n;
 cout<<"Number of Rounds";
 cin>>r;
