@@ -1,1 +1,1 @@
-# Chess-Tournament-Calculator
+# Chess Tournament Win Calculator
