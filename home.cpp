@@ -5,11 +5,13 @@ void main()
 clrscr();
 int n;
 int r;
-int R;
+int w;
 float p;
-p=r*(1-R/n);
+p=r*(1-w/n);
 cout<<"Number of Players";
 cin>>n;
 cout<<"Number of Rounds";
 cin>>r;
-cout<<"Top"<<R;
+cout<<"Number of Eligible Prize Winners";
+cin>>w;
+cout<<"Number of Points Needed to Win"<<p;
